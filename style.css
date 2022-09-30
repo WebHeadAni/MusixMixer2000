@@ -1,0 +1,27 @@
+body{
+    background: url("back.jpeg");
+    background-size: cover;
+}
+.back_col{
+    background-color: rgb(0, 0, 0);
+    color: aliceblue;
+    width: 300px;
+
+    
+}
+.heading{ 
+   font-size: 23px;
+   width: 100%;
+   margin: 0px;
+
+}
+#menu_button{
+    float: left;
+}
+#page_2{
+   margin-right: 25%;
+   float : right;
+}
+#song_{
+    width:300px
+}
