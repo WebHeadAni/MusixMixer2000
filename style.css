@@ -6,8 +6,6 @@ body{
     background-color: rgb(0, 0, 0);
     color: aliceblue;
     width: 300px;
-
-    
 }
 .heading{ 
    font-size: 23px;
@@ -20,8 +18,16 @@ body{
 }
 #page_2{
    margin-right: 25%;
-   float : right;
+   float : bottom;
 }
 #song_{
     width:300px
+}
+canvas{
+    width: 500px;
+    height: 400px;
+    border-radius: 50px;
+    box-shadow: 5px 5px 5px gray;
+    margin-top:  160px;
+
 }
